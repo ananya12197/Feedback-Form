@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 40px;
+  background: #eef0f3;
+}
+input, select, textarea {
+  margin-top: 6px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+#thankYou {
+  color: #3fa64f;
+  font-weight: bold;
+  margin-top: 20px;
+}
